@@ -14,7 +14,4 @@
 | **Phase 3** | Clinical AI Specialization | ⚪ Not Started |
 
 ## 🔗 Quick Links to Courses
-- [Trigonometry (Khan Academy)](https://www.khanacademy.org/math/trigonometry)
-- [CS50P: Harvard Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
-- [18.06SC Linear Algebra (MIT)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-- [ML for Healthcare (MIT)](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
+- [Precalculus (Khan Academy)](https://www.khanacademy.org/math/precalculus)
