@@ -1,34 +1,43 @@
 # Medical Data Science Mastery Path
 
-**Goal:** Transition from Physician (MD) to Elite Medical Data Scientist by September 2026.
+**Goal:** Transition from Physician (MD) to Chief Data Scientist (Fidelity AI) by September 2026.
 
-## Phase 1: The Foundation (Months 1–4)
+## Phase 1: Computational Fluency (Months 1–3)
+*Focus: From zero to scientific Python fluency using the "Drill-Based" method.*
 | Status | Track | Course Name | Source / Link |
 | :---: | :--- | :--- | :--- |
-| 🟡 | **Math** | **Precalculus & Trigonometry** | [Khan Academy Playlist](https://www.youtube.com/playlist?list=PLD6DA74C1DBF770E7) |
-| ⚪ | **Code** | **CS50P: Python** | [CS50P 2022 Playlist](https://youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V&si=Xga2ujFEZ0klXrYh) |
-| ⚪ | **Physics** | **Physics for Data (Intro)** | [Steve Brunton: Fourier Series](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4KEbetvii78Uh) |
+| ✅ | **Tool** | **VS Code Environment Setup** | [Visual Studio Code](https://code.visualstudio.com/) |
+| 🟡 | **Code** | **Python Programming 2024** | [MOOC.fi (Univ. of Helsinki)](https://programming-24.mooc.fi/) |
+| ⚪ | **Data** | **Data Analysis with Python** | [MOOC.fi (Univ. of Helsinki)](https://data-analysis.mooc.fi/) |
 
-## Phase 2: The Engine (Months 5–10)
+## Phase 2: The Mathematical Bridge (Months 3–5)
+*Focus: "Minimum Viable Math" (MVM) for Machine Learning optimization.*
 | Status | Track | Course Name | Source / Link |
 | :---: | :--- | :--- | :--- |
-| ⚪ | **Math** | **18.01 Single Variable Calculus** | [MIT 18.01 Playlist (Jerison)](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) |
-| ⚪ | **Math** | **18.06 Linear Algebra** | [MIT 18.06 Playlist (Strang)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) |
-| ⚪ | **Code** | **CS50 SQL: Databases** | [CS50 SQL Playlist](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=gbecVlIZMjei1fIU) |
-| ⚪ | **Code** | **CS50 AI: Artificial Intelligence** | [CS50 AI Playlist](https://youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&si=Ce_jucx3K8lY4mvG) |
+| ⚪ | **Math** | **Machine Learning Foundations** | [Jon Krohn (GitHub/Udemy)](https://github.com/jonkrohn/ML-foundations) |
+| ⚪ | **Math** | **Calculus for Machine Learning** | [Jon Krohn Playlist](https://www.youtube.com/playlist?list=PLBCD0455A2744654F) |
+| ⚪ | **Stats** | **Intro to Statistics** | [Udacity / Khan Academy](https://www.udacity.com/course/intro-to-statistics--st101) |
+| ⚪ | **Stats** | **Probability & Stats for ML** | [Jon Krohn Module](https://github.com/jonkrohn/ML-foundations) |
 
-## Phase 3: The Specialization (Months 11–15)
+## Phase 3: Medical Physics & Data Genesis (Months 5–8)
+*Focus: Understanding the physical origin of data (CT/MRI/PET).*
 | Status | Track | Course Name | Source / Link |
 | :---: | :--- | :--- | :--- |
-| ⚪ | **Math** | **18.02 Multivariable Calculus** | [MIT 18.02 Playlist (Auroux)](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) |
-| ⚪ | **Math** | **18.065 Matrix Methods for ML** | [MIT 18.065 Playlist (Strang)](https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&si=ttCaGQg53Gs7KyN8) |
-| ⚪ | **Math** | **Intro to Probability** | [MIT 6.041 Playlist (Tsitsiklis)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) |
-| ⚪ | **Code** | **CS50x (Web Track: Lec 8+)** | [CS50x 2025 Playlist](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=VffrbZSMRfq09ofG) |
-| ⚪ | **Clinic** | **Imaging Physics** | [Radiology Tutorials Playlist](https://www.youtube.com/playlist?list=PL41lG_k79zQd75B7lW3X_G7uF3vL5p0Y_) |
+| ⚪ | **Phys** | **Rad. Oncology Physics Handbook** | [IAEA (Official PDF)](https://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf) |
+| ⚪ | **Phys** | **Principles of Medical Imaging** | [MIT 22.058 (OpenCourseWare)](https://ocw.mit.edu/courses/22-058-principles-of-medical-imaging-fall-2002/) |
+| ⚪ | **Phys** | **MRI Physics & k-Space** | [MIT HST.583 (OpenCourseWare)](https://ocw.mit.edu/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2010/) |
 
-## Phase 4: The Professional (Target: Sept 2026)
+## Phase 4: Applied Medical AI (Months 8–12)
+*Focus: The "Top-Down" Approach—Building models immediately.*
 | Status | Track | Course Name | Source / Link |
 | :---: | :--- | :--- | :--- |
-| ⚪ | **Stats** | **18.650 Statistics for Applications** | [MIT 18.650 Playlist (Rigollet)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) |
-| ⚪ | **App** | **ML for Healthcare** | [MIT 6.S897 Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pGSLI9tu7RF_0OE3MUIxJ) |
-| ⚪ | **Data** | **14.310 Data Analysis** | [MIT 14.310 Playlist (Duflo)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63o16N73iA9g7oH1x68_0-T) |
+| ⚪ | **AI** | **Practical Deep Learning** | [Fast.ai (Jeremy Howard)](https://course.fast.ai/) |
+| ⚪ | **MedAI**| **MONAI Bootcamps** | [Project MONAI (YouTube)](https://www.youtube.com/c/ProjectMONAI) |
+| ⚪ | **Data** | **MIMIC-IV Critical Care** | [PhysioNet Credentialing](https://physionet.org/content/mimiciv/) |
+
+## Phase 5: Strategic Leadership (Months 12–15)
+*Focus: Ethics, Regulation, and the Executive Portfolio.*
+| Status | Track | Course Name | Source / Link |
+| :---: | :--- | :--- | :--- |
+| ⚪ | **Strat**| **AI Ethics & Regulation (FDA)** | [FDA SaMD Guidelines](https://www.fda.gov/medical-devices/digital-health-center-excellence/software-medical-device-samd) |
+| ⚪ | **Port** | **Capstone: End-to-End Pipeline** | [GitHub (Self-Hosted)](https://github.com/) |
