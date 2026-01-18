@@ -13,8 +13,8 @@
 | Progress | Type | Task / Course | Medical/DS Application (Why?) |
 | :--- | :--- | :--- | :--- |
 | ✅ | **Math** | **KA Precalc: Unit 1 (Composite/Inverse)** | *Chain Rule Prep (Mechanism of drug metabolism models).* |
-| 🟡 | **Math** | **KA Precalc: Unit 4 (Rational Functions)** | *Limits Prep (Asymptotes in survival analysis).* |
-| | **Math** | **KA Precalc: Unit 5 (Hyperbolas ONLY)** | *Discontinuity Prep ($1/x$ relationships).* |
+| ✅ | **Math** | **KA Precalc: Unit 4 (Rational Functions)** | *Limits Prep (Asymptotes in survival analysis).* |
+| 🟡| **Math** | **KA Precalc: Unit 5 (Hyperbolas ONLY)** | *Discontinuity Prep ($1/x$ relationships).* |
 | | **Math** | **MIT 18.01: Lec 1–2 (Limits & Derivs)** | *The geometry of "Rate of Change" (Vitals).* |
 | | **Code** | **Kaggle Python: 1. Hello, Python** | *Setting up the surgical environment.* |
 | | **Math** | **MIT 18.01: Lec 3–6 (Chain Rule/Implicit)** | *Complex system sensitivity (The "Onion" of deep learning).* |
